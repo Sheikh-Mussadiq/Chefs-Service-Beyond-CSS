@@ -22,3 +22,4 @@
 // `
 
 // setupCounter(document.querySelector('#counter'))
+import "./sass/main.scss";
